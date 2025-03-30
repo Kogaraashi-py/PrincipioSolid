@@ -1,0 +1,6 @@
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\Entity\bin\Debug\Entity.dll
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\Entity\bin\Debug\Entity.pdb
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\Entity\obj\Debug\Entity.dll
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,14 @@
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\UI.exe.config
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\UI.exe
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\UI.pdb
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\BLL.dll
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\Entity.dll
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\BLL.pdb
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\Entity.pdb
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\obj\Debug\UI.exe
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\obj\Debug\UI.pdb
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\DAL.dll
+C:\Users\Ruben Gutierrez\source\repos\ParcialProgllRubén-Hernando\UI\bin\Debug\DAL.pdb
